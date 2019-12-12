@@ -21,14 +21,14 @@
 
     {
         "id" : 2,
-        "name" : "I am Groot",
-        "description " : "test test test",
+        "name" : "I am toot",
+        "description " : "west",
 
         "keywords" : [
-        "stuffed" ,
-          "plush" ,
-          "groot" , 
-             "guardians test"
+        "stuffedd" ,
+          "pludsh" ,
+          "grodot" , 
+             "guardidans test"
  ],
 "image" : "store1.png",
  "age" : [
@@ -40,12 +40,12 @@
 
 {
     "id" : 3,
-    "name" : "I am Groot",
-    "description " : "test test test",
+    "name" : "I am Gddroot",
+    "description " : "tedddst test test",
 
     "keywords" : [
-    "stuffed" ,
-      "plush" ,
+    "stufdfed" ,
+      "pludsh" ,
       "groot" , 
          "guardians test"
 ],
