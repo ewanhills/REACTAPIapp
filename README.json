@@ -1,0 +1,98 @@
+{
+     "products": [
+        {
+            "id" : 1,
+            "name" : "I am Groot",
+            "description " : "test test test",
+
+            "keywords" : [
+            "stuffed" ,
+              "plush" ,
+              "groot" , 
+                 "guardians test"
+     ],
+    "image" : "store1.png",
+     "age" : [
+        "0",
+        "+"
+    ],
+    "price" : 19.99
+    },
+
+    {
+        "id" : 2,
+        "name" : "I am toot",
+        "description " : "west",
+
+        "keywords" : [
+        "stuffedd" ,
+          "pludsh" ,
+          "grodot" , 
+             "guardidans test"
+ ],
+"image" : "store1.png",
+ "age" : [
+    "0",
+    "+"
+],
+"price" : 19.99
+},
+
+{
+    "id" : 3,
+    "name" : "I am Gddroot",
+    "description " : "tedddst test test",
+
+    "keywords" : [
+    "stufdfed" ,
+      "pludsh" ,
+      "groot" , 
+         "guardians test"
+],
+"image" : "store1.png",
+"age" : [
+"0",
+"+"
+],
+"price" : 19.99
+},
+
+{
+    "id" : 4,
+    "name" : "I am Groot",
+    "description " : "test test test",
+
+    "keywords" : [
+    "stuffed" ,
+      "plush" ,
+      "groot" , 
+         "guardians test"
+],
+"image" : "store1.png",
+"age" : [
+"0",
+"+"
+],
+"price" : 19.99
+},
+
+{
+    "id" : 5,
+    "name" : "I am Groot",
+    "description " : "test test test",
+
+    "keywords" : [
+    "stuffed" ,
+      "plush" ,
+      "groot" , 
+         "guardians test"
+],
+"image" : "store1.png",
+"age" : [
+"0",
+"+"
+],
+"price" : 19.99
+}
+]
+}
